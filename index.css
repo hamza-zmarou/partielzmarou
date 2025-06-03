@@ -1,0 +1,352 @@
+body{
+    font-family: "Outfit", sans-serif;
+}
+.navbar1{
+    display: flex;
+}
+.navbar2{
+    display: flex;
+    margin-right: 30px;
+}
+.navbar3{
+    display: flex;
+}
+
+.navbar21{
+    display: flex;
+    gap: 20px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.navbar31 img{
+    height: 27px;
+    width: auto;
+    align-items: center;
+}
+.navbar31 {
+    margin-top: 13px;
+}
+
+
+.navbar32 button{
+    border-radius: 5%;
+    background-color: #3498DB ;
+    color: white;
+    height: 35px;
+    width: 100px;
+    text-align: center;
+    border-color: #3498DB;
+    border: none;
+}
+
+
+
+.navbar13{
+    color: #3498DB;
+}
+
+.navbar11{
+    margin-top: -8px;
+}
+
+.navbar1{
+    margin-left: 60px;   
+}
+
+.navbar3{
+    margin-left: +100px;
+}
+
+    .navbar32{
+        margin-top: 8px;
+    }
+
+.c1e1e1{
+    font-size: 64px;
+}
+.c1e1e2{
+    margin-top: -30px;
+    font-size: 20px;
+}
+
+.c1e1e3 button{
+    display: flex;
+    border-radius: 5%;
+    background-color: #3498DB ;
+    color: white;
+    height: 35px;
+    width: 100px;
+    text-align: center;
+    border-color: #3498DB;
+    border: none;
+}
+
+.butt1{
+    margin-top: 7.5px;
+}
+.butt2{
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+
+.image-container {
+  position: relative;
+  width: 650px; 
+  height: 450px;
+}
+
+.fond {
+  width: 100%;
+  height: auto;
+}
+
+.superposee {
+  position: absolute;
+  top: 100px; 
+  left: 150px; 
+  width: 340px;
+  height: auto; 
+}
+
+.section1{
+    display: flex;
+}
+
+.sec1e2{
+    display: flex;
+}
+
+
+.c2e2e21 button{
+    display: flex;
+    border-radius: 20px;
+    background-color: #BBDEFB ;
+    color: black;
+    height: 35px;
+    width: 100px;
+    text-align: center;
+    border-color: #3498DB;
+    border: none;
+}
+
+
+.but11 img{
+    width: 25px;
+    height: auto;
+    margin-top: -11.5px;
+    margin-left: -20.5px;
+}
+
+.c2e2e2{
+    margin-top: +30px;
+    display: flex;
+  flex-direction: column;
+  gap: 40px; 
+}
+
+
+.c2e2e21{
+    margin-top: +30px;
+    display: flex;
+  flex-direction: column;
+  gap: 40px; 
+}
+
+
+.c2e2e23{
+    margin-left: 30px;
+}
+
+.bezar{
+    color: #3498DB;
+}
+
+.section2{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sec2e1{
+    font-size: 36px;
+}
+
+.section31 img{
+    width: 100%;
+    height: auto;
+}
+
+
+.p2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 54px;
+}
+
+.c3e1e1 button{
+    display: flex;
+    border-radius: 5%;
+    background-color: #3498DB ;
+    color: white;
+    height: 35px;
+    width: 130px;
+    text-align: center;
+    border-color: #3498DB;
+    border: none;
+}
+
+.butt222 img{
+    margin-top: 15px;
+    margin-left: 5px;
+
+}
+
+.c3e1e1{
+    height: 0.3%;
+    width: auto;
+    margin-left: 40px;
+}
+
+.ewa{
+    display: flex;
+}
+
+
+
+.c3e32 img{
+    width: 300px;
+    height: auto;
+}
+
+.section3{
+    display: flex;
+}
+
+.p3{
+    font-size: 36px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.p4{
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.casque{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.sec3e13 button{
+    position: relative;
+    display: flex;
+    border-radius: 5%;
+    background-color: #3498DB ;
+    color: white;
+    height: 35px;
+    width: 80px;
+    text-align: center;
+    border-color: #3498DB;
+    border: none;
+
+}
+
+.bitt2 img{
+    position: absolute;
+    right: 2px;
+    bottom: 5px;
+
+}
+
+.sec3e11{
+    font-size: 64px;
+}
+.sec3e12{
+    margin-bottom: 30px;
+}
+
+.section4{
+    display: flex;
+}
+
+.bb img{
+    margin-top: -600px;
+    margin-left: 50px;
+}
+
+.sec4e1{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.aaa img{
+    margin-top: 80px;
+}
+
+.bbb img{
+    margin-top: -500px;
+    margin-left: 140px;
+    height: 400px;
+    width: auto;
+}
+
+.section5{
+    display: flex;
+}
+.c5e21{
+    font-size: 64px;
+    margin-top: 20px;
+}
+
+
+
+.c5e23 button{
+    position: relative;
+    display: flex;
+    border-radius: 5%;
+    background-color: #3498DB ;
+    color: white;
+    height: 35px;
+    width: 80px;
+    text-align: center;
+    border-color: #3498DB;
+    border: none;
+
+}
+
+.byt2 img{
+    position: absolute;
+    bottom: 20%;
+    right: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c5e2{
+    margin-top: 140px;
+}
+
+.sec1e1{
+    margin-left: 20px;
+}
+
+
+.but12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
